@@ -11,7 +11,7 @@ const Topbar = () => {
         </div>
         <div className="topbarCenter">
             <div className="searchbar">
-                <Search />
+                <Search className="searchIcon"/>
                 <input placeholder="Search for friend, post or video" className="searchInput" />
             </div>       
         </div>
@@ -34,7 +34,7 @@ const Topbar = () => {
                     <span className="topbarIconBadge">1</span>
                 </div>
             </div>
-            <img src="./assets/person/11.jpg" alt="profile_image" className="topbarImage" />
+            <img src="./assets/person/13.jpeg" alt="profile_image" className="topbarImage" />
         </div>
         
     </div>
