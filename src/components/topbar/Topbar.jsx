@@ -10,8 +10,10 @@ const Topbar = () => {
             <span className="logo">facebook</span>
         </div>
         <div className="topbarCenter">
-            <Search />
-            <input placeholder="Search for friend, post or video" className="searchInput" />
+            <div className="searchbar">
+                <Search />
+                <input placeholder="Search for friend, post or video" className="searchInput" />
+            </div>       
         </div>
         <div className="topbarRight">
             <div className="topbarLinks">
