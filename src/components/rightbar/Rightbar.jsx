@@ -48,16 +48,16 @@ const Rightbar = ({profile}) => {
             <span className="rightbarFollowingName">Bola Tinubu</span>
           </div>
           <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="./assets/person/2.jpeg" alt="" />
-            <span className="rightbarFollowingName">John Carter</span>
+            <img className="rightbarFollowingImg" src="./assets/person/15.jpg" alt="" />
+            <span className="rightbarFollowingName">M. Salman</span>
           </div>
           <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="./assets/person/3.jpeg" alt="" />
-            <span className="rightbarFollowingName">John Carter</span>
+            <img className="rightbarFollowingImg" src="./assets/person/16.jpg" alt="" />
+            <span className="rightbarFollowingName">Joe Biden</span>
           </div>
           <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="./assets/person/4.jpeg" alt="" />
-            <span className="rightbarFollowingName">John Carter</span>
+            <img className="rightbarFollowingImg" src="./assets/person/17.jpg" alt="" />
+            <span className="rightbarFollowingName">M. Zayed</span>
           </div>
           <div className="rightbarFollowing">
             <img className="rightbarFollowingImg" src="./assets/person/12.jpg" alt="" />
