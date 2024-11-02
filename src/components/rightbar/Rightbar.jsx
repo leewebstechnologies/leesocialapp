@@ -64,8 +64,8 @@ const Rightbar = ({profile}) => {
             <span className="rightbarFollowingName">Vladimir Putin</span>
           </div>
           <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="./assets/person/6.jpeg" alt="" />
-            <span className="rightbarFollowingName">John Carter</span>
+            <img className="rightbarFollowingImg" src="./assets/person/18.png" alt="" />
+            <span className="rightbarFollowingName">Ibrahim Traore</span>
           </div>
         </div>
       </>
